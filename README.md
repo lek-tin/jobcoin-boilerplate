@@ -8,3 +8,5 @@ All the implementations provided are roughly identical in what they provide to y
  * a recommended library to use for tests
  
 The mixing algorithm and any other changes are left for you to implement.
+
+## Refer to the `solution` for instruction
