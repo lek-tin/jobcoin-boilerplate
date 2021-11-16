@@ -18,4 +18,4 @@
 
 ## Architecture Diagram
 
-![Jobcoin Mixer Design](https://user-images.githubusercontent.com/7697903/142051892-47e10cf5-7b09-4467-93e4-afa6a789f20d.png)
+![Jobcoin Mixer Design](https://user-images.githubusercontent.com/7697903/142052057-51171efe-8f77-42d5-a5f5-b08d8418cd0c.png)
