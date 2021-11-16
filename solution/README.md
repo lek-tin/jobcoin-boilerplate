@@ -13,3 +13,4 @@
 - Mapping persistance (redis or database) can be a good improvement in the future
 - Horizontally scale the service by sharding pseudo keys
 - Convert fund/number to string and calculate it digit by digit / decimal by decimal for better precision
+- Deduct commission
