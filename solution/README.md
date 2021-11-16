@@ -14,3 +14,8 @@
 - Horizontally scale the service by sharding pseudo keys
 - Convert fund/number to string and calculate it digit by digit / decimal by decimal for better precision
 - Deduct commission
+
+
+## Architecture Diagram
+
+![Jobcoin Mixer Design](https://user-images.githubusercontent.com/7697903/142051892-47e10cf5-7b09-4467-93e4-afa6a789f20d.png)
